@@ -1,0 +1,14 @@
+beautiful==0.0.2
+beautifulsoup4==4.8.2
+click==7.1.1
+Flask==1.1.1
+gunicorn==20.0.4
+itsdangerous==1.1.0
+Jinja2==2.11.1
+Markdown==3.2.1
+MarkupSafe==1.1.1
+micawber==0.5.1
+peewee==3.13.1
+soup==0.1.0
+soupsieve==2.0
+Werkzeug==1.0.0
